@@ -1,0 +1,7 @@
+.icon-list {
+  @apply flex items-center gap-2;
+}
+
+.icon-list_icon {
+  @apply p-2.5 inline-block rounded hover:bg-accent text-3xl;
+}

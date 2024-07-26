@@ -1,0 +1,7 @@
+.skill-card {
+  @apply bg-white dark:bg-muted flex items-center justify-between p-3 rounded-sm shadow-sm relative border;
+}
+
+.skill-card_title {
+  @apply font-medium text-lg;
+}
